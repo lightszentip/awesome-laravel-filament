@@ -24,7 +24,7 @@ All topics for laravel development
 
 - [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
   - [Laravel Pint - code style fixer for minimalists](https://laravel.com/docs/11.x/pint)
-- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [PHP Code Sniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer)
   - [PHP Laravel Code Sniffer Rule](https://github.com/PatricNox/laravel-phpcs)
 - [PHPStan](https://phpstan.org/)
 - [PHPLoc](https://github.com/sebastianbergmann/phploc)
